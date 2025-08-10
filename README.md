@@ -1,7 +1,15 @@
 # Minecraft-Recipe-Tweaks-for-Dummies
 Simple datapack modifying recipes to increase laziness.
 
-## Recipes
-- 9x rotten flesh -> 2x leather
+I started using https://crafting.thedestruc7i0n.ca/ to make recipes easier.
 
-I intended the first recipe to involve a furnace, but apparently JSON can't be used to add furnace recipes? Perhaps I should've added a fuel requirement to compensate for this. Gunpowder has similar chemicals to curing processes for leather iirc, so I might add that in place of the center rotten flesh..
+I am no longer making a separate "release" ZIP file because this repo can be
+downloaded as a zip that will work as a data pack.
+
+## Recipes
+- rotten flesh can be smelted to make leather, with different speeds depending
+  on which block is used
+- white wool -> 2x string
+- string + paper -> name tag
+- iron bars + planks -> rails (original rail recipe, but with bars and planks,
+  to use more wood and less iron)
