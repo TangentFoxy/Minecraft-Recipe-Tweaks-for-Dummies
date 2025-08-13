@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "crafting_shaped",
     "pattern": [
         "# #",
         "#O#",
@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": "minecraft:iron_bars",
-        "O": "minecraft:planks"
+        "O": "#minecraft:planks"
     },
     "result": {
         "id": "minecraft:rail",
