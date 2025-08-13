@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredients",
+  "key": {
+    "#": {"item": "minecraft:iron_bars"},
+    "W": {"item": "#minecraft:planks"}
+  },
+  "pattern": [
+    "# #",
+    "#W#",
+    "# #"
+  ],
+  "result": {
+    "item": "minecraft:rail",
+    "count": 16
+  },
+  "show_notification": true
+}

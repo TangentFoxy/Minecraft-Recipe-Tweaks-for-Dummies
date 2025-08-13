@@ -1,7 +1,6 @@
 {
   "pack": {
-    "description": "Minecraft Recipe Tweaks for Dummies",
-    "pack_format": 81,
-    "supported_formats": [71, 81]
+    "pack_format": 15,
+    "description": "Minecraft Recipe Tweaks for Dummies"
   }
 }

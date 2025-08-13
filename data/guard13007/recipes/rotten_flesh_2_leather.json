@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredients",
+  "key": {
+    "R": {"item": "minecraft:rotten_flesh"},
+    "G": {"item": "minecraft:gunpowder"}
+  },
+  "pattern": [
+    "RRR",
+    "RGR",
+    "RRR"
+  ],
+  "result": {
+    "item": "minecraft:leather",
+    "count": 2
+  },
+  "show_notification": true
+}
