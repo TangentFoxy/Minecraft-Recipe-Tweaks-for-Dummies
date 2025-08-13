@@ -5,7 +5,7 @@ I started using https://crafting.thedestruc7i0n.ca/ to make recipes easier.
 
 ## Recipes
 - rotten flesh can be smelted to make leather, with different speeds depending
-  on which block is used (campfire < smoker < furnace < blast furnace)
+  on which block is used <br> (campfire < smoker < furnace < blast furnace)
 - white wool -> 2x string
 - string + paper -> name tag
 - iron bars + planks -> rails (original rail recipe, but with bars and planks,
